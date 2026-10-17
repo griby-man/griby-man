@@ -36,7 +36,3 @@ Most things are more interesting once you open them. I build software because bu
 is how I come to understand something, mostly systems work in Rust and C, and mostly
 close to the metal or close to the past: reverse engineering, ROM hacking, and getting
 old games running natively on hardware their authors never imagined.
-
-Most of my work lives on [Codeberg](https://codeberg.org/enoki). GitHub gets mirrors.
-
-> I don't have too many hobbies, I have one hobby: figuring out how things work.
